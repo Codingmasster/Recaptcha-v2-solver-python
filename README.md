@@ -1,1 +1,1 @@
-# Recaptcha-v2-solver-python
+#TextCaptcha-Solver-python
